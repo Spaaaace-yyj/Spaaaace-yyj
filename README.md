@@ -35,15 +35,14 @@ If you’re interested in **robot vision**, **autonomous robotics**, or **AI app
 
 ## 📈 GitHub Stats
 
-![Spaaaace-yyj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spaaaace-yyj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spaaaace-yyj&layout=compact&theme=radical)
+## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spaaaace-yyj&layout=compact&theme=radical)
+
+---
+
+## 🌟 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Spaaaace-yyj&theme=react-dark&hide_border=true)
 
 ---
 
 *✨ Keep Learning. Keep Exploring. Keep Building. ✨*
-
-
-<!---
-Spaaaace-yyj/Spaaaace-yyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
